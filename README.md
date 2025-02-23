@@ -40,10 +40,10 @@ Navigate to the cloned repository folder.
 Open the desired .pbix file with Power BI Desktop.
 
 ## Skills Demonstrated
-Data Analysis: Cleaning and transforming raw data for analysis.
-Data Visualization: Designing interactive and intuitive dashboards.
-Business Intelligence: Deriving actionable insights to inform strategic decisions.
-Use of Power BI: Proficiency in utilizing Power BI tools and features for data modeling and visualization.
+Data Analysis: Cleaning and transforming raw data for analysis.                                                                                                                                                                                         
+Data Visualization: Designing interactive and intuitive dashboards.                                                                                                                                                                          
+Business Intelligence: Deriving actionable insights to inform strategic decisions.                                                                                                                                                                           
+Use of Power BI: Proficiency in utilizing Power BI tools and features for data modeling and visualization.                                                                                                                                                                   
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
